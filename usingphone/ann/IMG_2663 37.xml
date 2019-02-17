@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>IMG_2663 37.jpg</filename>
+	<path>C:\windows_v1.8.0\data\IMG_2663 37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>usingphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>637</xmin>
+			<ymin>148</ymin>
+			<xmax>1639</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

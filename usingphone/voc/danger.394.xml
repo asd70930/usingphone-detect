@@ -1,0 +1,26 @@
+<annotation>
+	<folder>TEST</folder>
+	<filename>danger.394.jpg</filename>
+	<path>C:\windows_v1.8.0\TEST\danger.394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>usingphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>913</ymin>
+			<xmax>903</xmax>
+			<ymax>1165</ymax>
+		</bndbox>
+	</object>
+</annotation>
